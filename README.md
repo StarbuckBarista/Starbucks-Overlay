@@ -1,4 +1,4 @@
-# Starbuck-Overlay
+# Starbucks-Overlay
 
 This is a fun Starbucks themed overlay that I made for The Bridge.
 
